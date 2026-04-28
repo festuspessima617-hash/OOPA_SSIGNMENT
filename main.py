@@ -51,7 +51,7 @@ Base.metadata.create_all(bind=engine)
 
 
 
-app = FastAPI(title="Production Library API")
+app = FastAPI(title="Limkokwing Libeaey")
 
 
 
