@@ -51,7 +51,7 @@ Base.metadata.create_all(bind=engine)
 
 
 
-app = FastAPI(title="Limkokwing Libeaey")
+app = FastAPI(title="Limkokwing Library")
 
 
 
